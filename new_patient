@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <?= $this->Html->charset() ?>
+    <?= $this->Html->meta('icon') ?>
+    <?= $this->Html->css('base.css') ?>
+    <?= $this->Html->css('cake.css') ?>
+    <?= $this->Html->css('home.css') ?>
+    <?= $this->Html->css('style.css') ?>
+    
+    <title>Pair'D</title>
+
+</head>
+
+
+<body class="home">
+
+<!--NEW PAITIENT FORM-->
+<div class="account">
+  <form method="post">
+
+    <fieldset>
+    <legend>Add a New Patient:</legend>
+    First Name:<br>
+    <input type="text" name="firstname" spellcheck="false">
+    Last Name:<br>
+    <input type="text" name="lastname" spellcheck="false">
+    Birthday:<br>
+    <input type="text" name="birthday">
+    Room Number:<br>
+    <input type="text" name="Room">
+
+
+
+    <!-- submit button --> 
+     <div class="wrapper">
+            <span class="group-btn">     
+                <a href="http://students.washington.edu/arieska/paird/pages/" class="btn btn-primary btn-md">Submit</a>
+            </span>
+
+            </div>
+  
+    </fieldset>
+  </form>
+</div>
+
+
+
+</body>
+</html>
