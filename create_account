@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<title>Create an Account</title>
+
+<?= $this->Html->charset() ?>
+<?= $this->Html->meta('icon') ?>
+<?= $this->Html->css('base.css') ?>
+<?= $this->Html->css('cake.css') ?>
+<?= $this->Html->css('home.css') ?>
+<?= $this->Html->css('style.css') ?>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<!-- Account Form --> 
+<div class="account">
+	<form method="post">
+
+		<fieldset>
+		<legend>Create an Account:</legend>
+		First Name:<br>
+		<input type="text" name="firstname" spellcheck="false">
+		Last Name:<br>
+		<input type="text" name="lastname" spellcheck="false">
+		Username:<br>
+		<input type="text" name="username">
+		Email Address:<br>
+		<input type="text" name="email">
+		Password:<br>
+		<input type="password" name="password">
+		Birthday:<br>
+		<input type="text" name="birthday">
+
+
+		<!-- submit button --> 
+		 <div class="wrapper">
+            <span class="group-btn">     
+                <a href="http://students.washington.edu/arieska/paird/pages/home_page" class="btn btn-primary btn-md">Submit</a>
+            </span>
+
+            </div>
+	
+		</fieldset>
+	</form>
+</div>
+
+</body>
+
+</html>
