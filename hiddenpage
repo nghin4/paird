@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<?= $this->layout = false; ?>
+    <?= $this->Html->css('bootstrap.min.css') ?>
+    <?= $this->Html->css('form-elements.css') ?>
+    <?= $this->Html->css('login.css') ?>
+    <?= $this->Html->css('font-awesome.min.css') ?>
+    
+
+    <?= $this->fetch('meta') ?>
+    <?= $this->fetch('css') ?>
+    <?= $this->fetch('script') ?>
+<html>
+
+
+
+<head>
+
+<title>HIDDEN PAGE</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  	<meta charset="utf-8"/>    <link href="/arieska/paird/favicon.ico" type="image/x-icon" rel="icon"/><link href="/arieska/paird/favicon.ico" type="image/x-icon" rel="shortcut icon"/>    <link rel="stylesheet" href="/arieska/paird/css/login.css"/>    <link rel="stylesheet" href="/arieska/paird/css/home.css"/>    <link rel="stylesheet" href="/arieska/paird/css/style.css"/>    <link rel="stylesheet" href="/arieska/paird/css/bootstrap.css"/>    <link rel="stylesheet" href="/arieska/paird/css/freelancer.css"/>
+            
+</head>
+
+<body>
+	<h1>BATHROOM USAGE</h1>
+<script id="__debug_kit" data-id="26db1483-4ee1-4fde-ac75-5ed756790e3b" data-url="http://students.washington.edu/arieska/paird/" src="/arieska/paird/debug_kit/js/toolbar.js"></script></body>
+
+<body class="home">
+
+<!-- ROW 1 -->
+
+<center>
+
+    <div class="row">
+  
+    <!-- Toilet -->
+        <div class="col-md-1">
+        	<img id="myImg" src="http://students.washington.edu/arieska/paird/img/toilet.png" alt="Toilet" width="50" height="40">
+        </div>
+        <div class="col-md-5">
+        	<h3>Bathroom Last Entered:
+            </h3>
+            <iframe id="myIframe" 
+            style="border-style: none;width: 100%; height: 500px;background-color: white;"
+            src="http://students.washington.edu/arieska/database/data_review.php"></iframe>
+        </div>
+                       <!-- <div class="col-md-1 middle-border"></div>
+                        <div class="col-md-1"></div> -->            
+		<div class="col-md-1">
+             <img id="myImg1" src="http://students.washington.edu/arieska/paird/img/sink.png" alt="Sink" width="50" height="40">
+        </div>
+        <div class="col-md-5">
+        	<h3>Sink Last Used:
+            </h3>
+            <iframe id="myIframe1" 
+            style="border-style: none;width: 100%; height: 500px;background-color: white;"
+            src="http://students.washington.edu/arieska/database1/data_review1.php"></iframe>
+        </div>
+    </div>
+
+
+
+<script>
+window.setInterval("reloadIFrame();", 15000);
+function reloadIFrame() {
+document.getElementById("myIframe").src="http://students.washington.edu/arieska/database/data_review.php";
+document.getElementById("myIframe1").src="http://students.washington.edu/arieska/database1/data_review1.php";
+}
+
+</script>
+</html>
