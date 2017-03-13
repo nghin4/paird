@@ -60,141 +60,126 @@ $cakeDescription = 'PairD';
 		<!-- <img class="img-responsive img-center"> -->
 	</header> 
 	
+	<br></br>
 	<!-- Content Section -->
-	<section id="about-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">About Pair'D</h1>
-					<p class="setion-paragraph paragraph-size">Pair'D is a motion sensored based environment specifically implemented in the bathroom for dementia patients. By having these sensors, caregivers (and family members?) are able to keep track of their patient's bathroom usage. This includes:</p>
-					  <ul>
-    					<li>Entering (and exiting?) the Bathroom</li>
-    					<li>Toilet Usage</li>
-    					<li>Sink Usage</li>
- 					 </ul>
- 					<p class="setion-paragraph paragraph-size">By having this data, caregivers may begin to track patterns in activities, as well as taking note of any unsual/questionable data to make sure that the patient is being safe.</p>
+					<center><h2 class="section-heading">About Pair'D</h2></center>
+					<p class="setion-paragraph paragraph-size">Pair'D is a motion sensored based environment specifically implemented in the bathroom for dementia patients. By having these sensors, caregivers are able to keep track of their patient's bathroom usage. This includes:</p>
+    					<br>Entering the Bathroom</br>
+    					<br>Toilet Usage</br>
+    					<br>Sink Usage</br>
+ 					 </br>
+ 					<p class="section-paragraph paragraph-size">By having this data, caregivers may begin to track patterns in activities, as well as taking note of any unsual/questionable data to make sure that the patient is being safe.</p>
 				</div>
 			</div>
 		</div>
-	</section>
+		<br></br>
+
 	
 	<!-- Fixed Height Image Aside --> 
-	<section id="Problem Statement">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">Problem Statement</h1>
-					<p class="section-paragraph paragraph-size">How do we use technology to improve the living situation of those who are (directly or indirectly) affected by dementia?</p>
+					<center><h1 class="section-heading">Problem Statement</h1></center>
+					<center><p class="section-paragraph paragraph-size">How do we use technology to improve the living situation of those who are (directly or indirectly) affected by dementia?</p></center>
 				</div> 
 			</div> 
 		</div>
-	</section>
+	    <br></br>
 
 	<!-- Fixed Height Image Aside --> 
-	<section id="Mission Statement">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">Mission Statement</h1>
+					<center><h2 class="section-heading">Mission Statement</h2></center>
 					<p class="section-paragraph paragraph-size">We hope to assist Dementia patients by promoting confidence in independent/self-care through our use of design. This will also work hand in hand in helping the family members and the caregivers. As we continue to develop our ideas, we aim to create a secure, effective, efficient environment for Dementia patients. We are not looking for a solution, but a way to improve the living situations of those who are directly and indirectly affected by this disease, because although this disease is incurable, that does not mean we cannot help enhance the quality of life. We also hope to improve the living situations of those who are directly and indirectly affected by this disease.</p>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/jKCKD5Eclmg" frameborder="0" allowfullscreen></iframe>
-
+					<center><iframe width="560" height="315" src="https://www.youtube.com/embed/jKCKD5Eclmg" frameborder="0" allowfullscreen></iframe></center>
 				</div> 
 			</div> 
 		</div>
-	</section>
+		<br></br>
+		<br></br>
 
 		<!-- Fixed Height Image Aside --> 
-	<section id="What it Does">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">What it Does</h1>
-					<p class="section-paragraph paragraph-size">Below we've provided a video prototype to give the user a better since of the...</p>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/thtpZ5BOFD0" frameborder="0" allowfullscreen></iframe>
+					<center><h1 class="section-heading">What it Does</h1></center>
+					<center><p class="section-paragraph paragraph-size">Below, we've provided a low fidelity video prototype to give the user a better idea of how the process will occur.</p></center>
+					<center><iframe width="560" height="315" src="https://www.youtube.com/embed/thtpZ5BOFD0" frameborder="0" allowfullscreen></iframe></center>
 				</div> 
 			</div> 
 		</div>
-	</section>
+		<br></br>
+		<br></br>
 
 		<!-- Fixed Height Image Aside --> 
-	<section id="How it Works">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">How it Works</h1>
-					<p class="section-paragraph paragraph-size">Pair'D uses the following technical (?):</p>
-					  <ul>
-    					<li>Arduino</li>
-    					<li>Motion sensor</li>
-    					<li>Water sensor</li>
-    					<li>Website</li>
+					<center><h1 class="section-heading">How it Works</h1></center>
+					<p class="section-paragraph paragraph-size">Pair'D uses the following:</p>
+    					<br>Arduino</br>
+    					<br>Motion sensor</br>
+    					<br>Water sensor</br>
+    					<br>Website</br>
     					<!--insert images-->
- 					 </ul>
- 					 <p class="section-paragraph paragraph-size">The Arduino attached with the multiple sensors is used as a source of data to be reported to the website. It does not use</p>
+ 					 <p class="section-paragraph paragraph-size">The Arduino attached with the multiple sensors is used as a source of data to be reported to the website.</p>
 				</div> 
 			</div> 
 		</div>
-	</section>
+		<br></br>
 
 			<!-- Fixed Height Image Aside --> 
-	<section id="Inspirations">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">Inspirations</h1>
-					<h4>Memo</h4>
-						<p class="section-paragraph paragraph-size">Tangible Appointments</p>
+					<center><h2 class="section-heading">Inspirations</h2></center>
+					<center><h3>Memo</h3></center>
+						<center><p class="section-paragraph paragraph-size">Tangible Appointments</p></center>
 							<div>
-							   <img id="Memo" src="http://students.washington.edu/arieska/paird/webroot/img/memo.jpg" alt="Memo" width="600" height="400">
+							   <img id="Memo" class="center-block img-responsive" src="http://students.washington.edu/arieska/paird/webroot/img/memo.jpg" alt="Hunold, Julia. "MEMO - tangible appointments." Julia Hunold. N.p., 2015. Web. 10 Mar. 2017. <http://www.juliahunold.com/MEMO-tangible-appointments." width="600" height="400">
 							</div>
-					<h4 class="section-heading">Ode</h4>
-					<p class="section-paragraph paragraph-size">Fragrance Alarm Clock</p>
+							<br></br>
+					        <center><h3>Ode</h3></center>
+					    <center><p class="section-paragraph paragraph-size">Fragrance Alarm Clock</p></center>
 						    <div>
-							   <img id="Memo" src="http://students.washington.edu/arieska/paird/webroot/img/ode.jpg" alt="Memo" width="600" height="400">
+							   <img id="Ode" class="center-block img-responsive" src="http://students.washington.edu/arieska/paird/webroot/img/ode.jpg" alt=""Disruptive Innovation | A revolution in Dementia care | Rodd." Rodd. Rodd Design, 06 Jan. 2016. Web. 10 Mar. 2017.<http://www.rodd.uk.com/ode-dementia-innovation/." width="600" height="400" >
 							</div>
 				</div> 
 			</div> 
 		</div>
-	</section>
-
+		<br></br>
+		<br></br>
 
 			<!-- Fixed Height Image Aside --> 
-	<section id="FAQs Section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">Frequently Asked Questions</h1>
-					<p class="section-paragraph paragraph-size">Why have the environment in the bathroom?</p> 
-					 <ul>
-					 	<li>After doing some research, and also based on personal experience by one of our team members, we found that Dementia patients often forget when they have used the bathroom. Whether that may be when they last entered, used the toilet, and used the</li>
+					<center><h2 class="section-heading">Frequently Asked Question(s)</h2></center>
+					<center><h3>Why have the environment in the bathroom?</h3></center> 
+						<p class="section-paragraph paragraph-size">After doing some research, and also based on personal experience by one of our team members, we found that dementia patients often forget when they have used the bathroom. Whether that may be when they last entered, when they used the toilet, and also when they used the sink.</p>
 				</div> 
 			</div> 
 		</div>
-	</section>
+		<br></br>
 	
-	<section id="Pair'D Team">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h1 class="section-heading">The Team/Pair’D Team/Creators/Developers/Designers</h1>
-					<p class="section-paragraph paragraph-size">The creators of Pair’D are students at the University of Washington Bothell in IMD (Interactive Media Design)They all worked on this program as
-Pair'D is made up by a team of University of Washington Bothell students in IMD who aim to </p>
+					<center><h2 class="section-heading">Team Pair’D</h2></center>
+					<center><h3>Designers/Developers</h3></center>
+					<p class="section-paragraph paragraph-size">The creators of Pair’D are students in the IMD (Interactive Media Design) program at the University of Washington Bothell. As a team, they worked on this project as a part of their Senior Capstone which is for the duration of two months.</p>
 				</div>
 			</div>
 		</div>
-	</section>
-	
-	
-	
-<!-- <br>
- 
-	<center><h1>About Pair'd</h1></Center>
-	<br>
+        <br></br>
+	<br></br>
+<br></br>
+<br></br>
 
-<div class="ex3">
-	<p>We hope to assist Dementia patients by promoting confidence in independent/self-care through our use of design. This will also work hand in hand in helping the family members and the caregivers. As we continue to develop our ideas, we aim to create a secure, effective, efficient environment for Dementia patients. We are not looking for a solution, but a way to improve the living situations of those who are directly and indirectly affected by this disease, because although this disease is incurable, that does not mean we cannot help enhance the quality of life. We also hope to improve the living situations of those who are directly and indirectly affected by this disease.</p>
-</div> -->
 
 <!-- Reduce page loading time --> 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.mins.js"></script>
